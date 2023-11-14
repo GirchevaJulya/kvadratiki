@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\квадрат\квадрат\bin\Debug\квадрат.exe.config
+C:\Users\Asus\Documents\квадрат\квадрат\bin\Debug\квадрат.exe
+C:\Users\Asus\Documents\квадрат\квадрат\bin\Debug\квадрат.pdb
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат_MarkupCompile.cache
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат_MarkupCompile.lref
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.g.resources
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.Properties.Resources.resources
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.exe
+C:\Users\Asus\Documents\квадрат\квадрат\obj\Debug\квадрат.pdb
