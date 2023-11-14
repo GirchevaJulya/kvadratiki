@@ -5,28 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:квадрат"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Canvas Margin="0,0,10,0" Height="419" VerticalAlignment="Top">
-            <TextBlock TextWrapping="Wrap" Canvas.Top="12" Height="30" Width="130"><Run Text="Послед"/><Run Text="ние документы"/></TextBlock>
-            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Text="6.txt" Canvas.Top="243" RenderTransformOrigin="-0.306,0.401"/>
-            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Text="5.txt" Canvas.Top="199" RenderTransformOrigin="0.172,-1.279"/>
-            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Text="4.txt" Canvas.Top="162"/>
-            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Text="3.txt" Canvas.Top="125" RenderTransformOrigin="0.606,-1.209"/>
-            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Text="2.txt" Canvas.Top="89" RenderTransformOrigin="0.57,0.924"/>
-            <TextBlock Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="47" RenderTransformOrigin="0.78,-1.515" Height="15"><Run Text="1"/><Run Text=".txt"/></TextBlock>
-            <Button Content="Открыть" Canvas.Left="130" Canvas.Top="10" Width="75"/>
-            <Button Content="О программе" Canvas.Left="492" Canvas.Top="10" Width="85"/>
-            <Button Content="Обработь" Canvas.Left="399" Canvas.Top="10" Width="79"/>
-            <Button Content="Закрыть" Canvas.Left="304" Canvas.Top="10" Width="75"/>
-            <Button Content="Сохранить" Canvas.Left="211" Canvas.Top="10" Width="75"/>
-            <TextBlock Canvas.Left="86" TextWrapping="Wrap" Canvas.Top="47" RenderTransformOrigin="0.78,-1.515" Height="15" FontWeight="Bold"><Run Text="1"/><Run Text=".txt"/></TextBlock>
-
-            <TextBlock Canvas.Left="130" TextWrapping="Wrap" Canvas.Top="47" RenderTransformOrigin="0.78,-1.515" Height="15"><Run Text="2"/><Run Text=".txt"/></TextBlock>
-            <TextBlock Canvas.Left="168" TextWrapping="Wrap" Canvas.Top="47" RenderTransformOrigin="0.78,-1.515" Height="15"><Run Text="3"/><Run Text=".txt"/></TextBlock>
-
-        </Canvas>
-        <WrapPanel Margin="69,87,29,71">
+        Title="MainWindow" Height="659" Width="1000">
+    <WrapPanel Margin="0,0,0,-6">
+        <WrapPanel >
             <Button Content="A" Width="88" Height="103" Margin="10" Background="Yellow"/>
             <Button Content="B" Width="88" Height="101" Margin="10" Background="Red"/>
             <Button Content="C" Width="88" Height="101" Margin="10" RenderTransformOrigin="0.57,1.312" Background="Green"/>
@@ -35,5 +16,14 @@
             <Button Content="F" Width="88" Height="101" Margin="10" RenderTransformOrigin="0.57,1.312" Background="LemonChiffon"/>
 
         </WrapPanel>
-    </Grid>
+        <WrapPanel Margin="280 200 0 0" >
+            <Button Content="A" Width="88" Height="103" Margin="10" Background="Yellow"/>
+            <Button Content="B" Width="88" Height="101" Margin="10" Background="Red"/>
+            <Button Content="C" Width="88" Height="101" Margin="10" RenderTransformOrigin="0.57,1.312" Background="Green"/>
+            <Button Content="D" Width="88" Height="101" Margin="10" RenderTransformOrigin="0.57,1.312" Background="Blue"/>
+            <Button Content="E" Width="88" Height="101" Margin="10" RenderTransformOrigin="0.57,1.312" Background="Gray"/>
+            <Button Content="F" Width="88" Height="101" Margin="10" RenderTransformOrigin="0.57,1.312" Background="LemonChiffon"/>
+
+        </WrapPanel>
+    </WrapPanel>
 </Window>
